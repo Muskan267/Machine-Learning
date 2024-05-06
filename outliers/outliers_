@@ -1,1 +1,4 @@
+There are several methods and techniques  for detecting an outlier.
+  A. If your column is normally distributed (bell shaped curve and 67% data is around mean) then use Z score method to detect and use either 
+      capping or trimming to remove it.
 
