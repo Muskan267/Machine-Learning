@@ -1,7 +1,0 @@
-When we use Pandas we can import and export datasets in different file formats like CSV (comma-separated value), SQL, JSON, and many more . Let's see how to import all
-import and export of all possible file formats.
-
-1. Import in TSV:  We don't have any special inbuilt function for tsv . So we will use read_csv('filename.tsv' , sep ='/t')
-
-
-
