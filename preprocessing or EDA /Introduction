@@ -1,0 +1,7 @@
+Pre-processing or EDA (Exploratory data analysis ) is the second step after  loadind the data in notebook . 
+It is a crucial step to make clean , meaningful and  correct .
+It has many steps but I will try to mention here most commonly and useful steps .
+Some are as follows :
+1. Handling missing value 
+2. Handling outliers (for this you can refer to : https://github.com/Muskan267/Machine-Learning/tree/master/outliers)
+
