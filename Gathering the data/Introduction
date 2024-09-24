@@ -1,5 +1,6 @@
 We can gather the data via 4 methods :
-1. Using csv(comma seprated values)
+1. Using csv(comma seprated values)  : File used : Gathering data via csv.ipynb
 2. Using  JSON/SQL
 3. Using  API'S
 4. Using web scrapping
+All the datasets used here are uploaded in the folder . 
