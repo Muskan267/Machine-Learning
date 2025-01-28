@@ -1,1 +1,34 @@
+# **Sentiment Analysis of Omicron Variant on Twitter**  
 
+## **Overview**  
+This project analyzes public sentiment regarding the Omicron variant using **Natural Language Processing (NLP)** techniques. The dataset, sourced from **Kaggle**, contains Twitter mentions about Omicron. The goal is to classify sentiments as **positive, negative, or neutral**, helping to understand public perception during the pandemic.
+
+## **Key Features**  
+- **Data Collection & Preprocessing**: Cleaned and processed raw text data to remove noise, stopwords, and special characters.  
+- **Exploratory Data Analysis (EDA)**: Analyzed the distribution of sentiments and visualized key trends in public opinion.  
+- **Sentiment Classification**: Applied machine learning and NLP techniques to classify tweets into different sentiment categories.  
+- **Model Evaluation**: Achieved **84% accuracy** in sentiment classification using various machine learning models.  
+
+## **Technologies Used**  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Natural Language Processing (NLP)** (NLTK, SpaCy)  
+- **Machine Learning** (Scikit-learn)  
+- **Jupyter Notebook** for interactive analysis  
+
+## **Results & Insights**  
+The model successfully captured sentiment trends, revealing shifts in public perception over time. These insights can aid policymakers, researchers, and healthcare organizations in understanding public reactions to new COVID-19 variants.
+
+## **How to Run the Project**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/omicron-sentiment-analysis.git
+   ```
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Jupyter Notebook to analyze and visualize the data.  
+
+---
+
+Let me know if you’d like any modifications or if I should extract more details from your notebook!
